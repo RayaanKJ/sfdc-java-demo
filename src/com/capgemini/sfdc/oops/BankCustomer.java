@@ -10,6 +10,7 @@ public class BankCustomer {
 		return balance;
 	}
 
+
 	public void setBalance(double balance) {
 		this.balance = balance;
 	}
